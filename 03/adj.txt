@@ -9,6 +9,7 @@ chật_chội,-1
 công_phu,1
 cứng,1
 dễ,1
+đẹp,1
 gần,1
 hay,1
 hiện_đại,1
