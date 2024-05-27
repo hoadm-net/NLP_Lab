@@ -1,4 +1,5 @@
 an_toàn,1
+bình_thường,-1
 cao,-1
 chu_đáo,1
 chung,1
@@ -9,6 +10,7 @@ công_phu,1
 cứng,1
 dễ,1
 gần,1
+hay,1
 hiện_đại,1
 hợp_lý,1
 khác,1
@@ -32,6 +34,7 @@ nhỏ,-1
 niềm_nở,1
 no,1
 nóng,1
+ngon,1
 nổi_tiếng,1
 phong_phú,1
 rộng_rãi,1
